@@ -1,0 +1,7 @@
+{
+    "app_id": "realm-test-siflb",
+    "config_version": 20210101,
+    "name": "realm-test",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL"
+}
